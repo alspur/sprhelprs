@@ -1,0 +1,9 @@
+Package: sprhelprs
+Title: FUnctions to help the SPR team at KDE
+Version: 0.0.0.9000
+Authors@R: person("Hannah", "Poquette", email = "hannahepoquette@gmail.com", role = c("aut", "cre"))
+Description: Provides helper functions for KDE SPR projects.
+Depends: R (>= 3.3.3)
+License: CC0
+Encoding: UTF-8
+LazyData: true
